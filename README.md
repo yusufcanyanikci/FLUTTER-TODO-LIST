@@ -1,4 +1,4 @@
-# Flutter-Todo-List
+# FLUTTER-TODO-LIST
 
 Flutter Dart dilinde Todo List uygulaması kodları ile birlikte lib klasörünü indirebilirsiniz aşağıdaki linkten youtube videosunu izleyebilirsiniz.
 
